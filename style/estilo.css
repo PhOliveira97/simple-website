@@ -1,7 +1,6 @@
 .container{
     fill: 1440px;
     font-family: Arial, Helvetica, sans-serif;
-
 }
 
 .header{
@@ -215,9 +214,7 @@
     .footer p{
         width: 100%;
     }
-    
- 
-    
+   
     .text4 {
         padding: 15px;
         width: 100%;
